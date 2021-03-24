@@ -1,2 +1,3 @@
 # Phoenix_Puteri
-This is for task 2 Week 8
+
+This is for SCM Task 2 Week 8 - Puteri Norliana Nor'ain 
